@@ -10,7 +10,7 @@
 
 ### 🧠 Notes
 
-- Four rings painted back to front (wave 3 → 0) so the newest ring always sits
+- Three rings painted back to front (wave 3 → 0) so the newest ring always sits
   on top
 - Each ring's value = wave index + animation.value — staggering them one full  
   cycle apart
