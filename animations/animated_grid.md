@@ -1,4 +1,4 @@
-# Arc Dial Animation
+# Animated Grid
 
 ## 🚀 Live Demo
 
