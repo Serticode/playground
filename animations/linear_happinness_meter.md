@@ -1,4 +1,11 @@
-# Linear Happiness Meter
+---
+id: pad-linear-happiness
+title: Linear Happiness Meter
+description: A continuous mood signal (0–1) drives color interpolation, a sweeping arc progress indicator, and animated emoji transitions with smooth state tweening.
+tags: dartpad, animation, dart, ui
+pinNumber: 4
+createdAt: 2026-04-22
+---
 
 ## 🚀 Live Demo
 

@@ -1,4 +1,11 @@
-# Arc Dial Animation
+---
+id: pad-arc-dial
+title: Arc Dial Animation
+description: A scroll-driven arc gauge. Ticks hang from a large-radius arc and fade at the edges via cosine falloff. Gold centre marker stays fixed.
+tags: dartpad, animation, dart, geometry
+pinNumber: 1
+createdAt: 2025-04-01
+---
 
 ## 🚀 Live Demo
 

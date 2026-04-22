@@ -1,4 +1,11 @@
-# Bouncy Ripples
+---
+id: pad-bouncy-ripples
+title: Bouncy Ripples
+description: Concentric ripple rings chase each other outward from a centre point. Radius grows via sqrt geometry, opacity fades as each ring expands.
+tags: dartpad, animation, dart, canvas
+pinNumber: 3
+createdAt: 2025-04-15
+---
 
 ## 🚀 Live Demo
 

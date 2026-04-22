@@ -1,4 +1,11 @@
-# Animated Grid
+---
+id: pad-animated-grid
+title: Animated Grid
+description: A diagonal wave sweeps a cell grid, lighting each cell gold as it passes. Each cell fires based on a random threshold with cosine edge fade.
+tags: dartpad, animation, dart, grid
+pinNumber: 2
+createdAt: 2025-04-10
+---
 
 ## 🚀 Live Demo
 
